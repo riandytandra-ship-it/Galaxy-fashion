@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Astra: Zodiac Dressmaker",
+  "description": "Game perancang busana haute couture bertema 12 zodiak dengan kreasi gaun, sulaman rasi bintang, pesanan klien kosmik, dan ramalan gaya astrologi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
